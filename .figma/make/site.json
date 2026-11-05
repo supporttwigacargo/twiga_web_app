@@ -1,0 +1,11 @@
+{
+  "description": "Twiga Star Cargo staff workspace for shipments, customers, packing lists, invoices and payments.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "Twiga Star Cargo LLC"
+}

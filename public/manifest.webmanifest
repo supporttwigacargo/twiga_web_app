@@ -1,0 +1,19 @@
+{
+  "name": "Twiga Star Cargo Management",
+  "short_name": "Twiga Star Cargo",
+  "description": "Twiga Star Cargo shipment, packing, invoicing, and accounting management.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#FCFCFC",
+  "theme_color": "#050909",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/company-logo.png",
+      "sizes": "1280x1104",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
