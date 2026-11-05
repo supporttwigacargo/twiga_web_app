@@ -17,3 +17,5 @@ logs/
 # Figma Make design-reference scratch files — not imported by any app code
 src/imports/Invoice-1861.pdf
 src/imports/pasted_text/
+
+supabase/.temp/
